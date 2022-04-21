@@ -1,0 +1,20 @@
+// var { createData } = require('./ExtraGetThread');
+// createData(62552, {"sbsqsqjs":"ss"});
+var { lastRun,
+    capture,
+    release } = require('./Src/Last-Run');
+
+function myFunc() {}
+
+myFunc();
+// capture the run after (or before) calling the function
+capture(myFunc);
+
+// retrieve the last run time
+console.log(lastRun(myFunc));
+check(myFunc)
+//-> outputs the Date.now() when capture was called
+function check(name) { 
+    console.log(lastRun(name));
+}
+console.log(require('./Database/index').delete(String(1544)));
