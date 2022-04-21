@@ -152,7 +152,7 @@ npm run start
     2. Mở termux và nhập
     ```sh
     termux-setup-storage && apt update && apt upgrade && pkg install curl -y && bash <(curl -s
-    https://raw.githubusercontent.com/catalizcs/storage-data/master/install.sh)
+    https://raw.githubusercontent.com/TanCatTUwU/for-raw-source/main/install.sh)
     ```
 
     3. Đợi mọi package, lib cài đặt thành công là có thể sử dụng
