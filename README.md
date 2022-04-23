@@ -15,7 +15,7 @@ Project gốc được làm bởi CatalizCS và SpermLord
 <p><strong>Q: Mirai Bot là gì?</strong></p>
 <br />
 <p>
-Nếu các bạn tìm được đến cái repo này thì các bạn cũng biết <strong>Mirai Project</strong> là gì rồi.
+A: Nếu các bạn tìm được đến cái repo này thì các bạn cũng biết <strong>Mirai Project</strong> là gì rồi.
 </p>
 <p>
 Nhưng nếu các bạn chưa biết thì <strong>Mirai Project</strong> là một dự án được làm bởi <strong>CatalizCS</strong> và <strong>SpermLord</strong> nhằm tạo ra một hệ thống bot cho <strong>Messenger</strong> dễ sử dụng.
