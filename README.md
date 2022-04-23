@@ -69,6 +69,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. Appstate
     - Bạn có thể xem cách lấy app state ở [đây](https://github.com/c3cbot/c3c-fbstate)
     - Chuyển file bạn vừa tải về <strong>(fbstate.json)</strong> vào thư mục bot và đổi tên nó thành <strong>appstate.json</strong>
+    - Sau đó nhập mật khẩu vào file login.js
     2. Sử dụng config.json để đăng nhập <strong>(không khuyến khích vì khả năng khoá acc là cao)</strong>
     - Nhập email(hoặc số điện thoại) cần để đăng nhập vào config.json
     ```sh
@@ -118,6 +119,7 @@ npm run start
     1. Appstate
     - Bạn có thể xem cách lấy app state ở [đây](https://github.com/c3cbot/c3c-fbstate)
     - Chuyển file bạn vừa tải về <strong>(fbstate.json)</strong> vào thư mục bot và đổi tên nó thành <strong>appstate.json</strong>
+    - Sau đó nhập mật khẩu vào file login.js
     2. Sử dụng config.json để đăng nhập <strong>(không khuyến khích vì khả năng khoá acc là cao)</strong>
     - Nhập email(hoặc số điện thoại) cần để đăng nhập vào config.json
     ```sh
