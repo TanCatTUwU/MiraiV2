@@ -1,6 +1,7 @@
 # MiraiV2
-Discontinued - i will continue this project when i want to
-Cập nhật module fca horizon để có thể sử dụng bot
+<p>Discontinued - i will continue this project when i want to</p>
+<p>Cập nhật module fca horizon để có thể sử dụng bot</p>
+
 ```sh
 npm install fca-horizon-remake@latest
 ```
