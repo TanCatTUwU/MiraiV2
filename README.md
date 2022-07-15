@@ -1,5 +1,9 @@
 # MiraiV2
 Discontinued - i will continue this project when i want to
+Cập nhật module fca horizon để có thể sử dụng bot
+```sh
+npm install fca-horizon-remake@latest
+```
 ## Original project by CatalizCS and SpermLord
 Project gốc được làm bởi CatalizCS và SpermLord
 <!-- TABLES OF CONTENT -->
