@@ -1,5 +1,5 @@
 # MiraiV2
-<p>Discontinued - i will continue this project when i want to</p>
+<p>Discontinued - will continue when i want to</p>
 <p>Cập nhật module fca horizon để có thể sử dụng bot</p>
 
 ```sh
