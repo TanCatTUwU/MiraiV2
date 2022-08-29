@@ -45,7 +45,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
 ### Cài đặt
 #### Windows
 1. Tải và cài đặt [Nodejs](https://nodejs.org/en/), [git](https://git-scm.com/)
-2. Cài đặt windows-build-tools:\n
+2. Cài đặt windows-build-tools:
     I. Mở powershell với quyền adminstrator thông qua startMenu
     II. Nhập 
      ```sh
@@ -58,7 +58,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     git clone https://github.com/TanCatTUwU/MiraiV2.git
     ```
 4. Cài đặt các package cần thiết
-    1. Mở cmd/terminal ở thư mục bot, LƯU Ý thư mục đó phải có file package.json
+    1. Mở cmd/terminal ở thư mục bot, <strong>LƯU Ý</strong> thư mục đó phải có file package.json
     2. Nhập
     ```sh
     npm i
