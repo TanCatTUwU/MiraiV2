@@ -1,0 +1,110 @@
+{
+  "name": "Tài Khoản Ngẫu Nhiên",
+  "ID": "100073612706236",
+  "mainROD": "𝕷𝖊𝖌𝖊𝖓𝖉 𝕺𝖋 𝕽𝖔𝖉",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 3,
+      "name": "Mẹ mày",
+      "category": "Legendary",
+      "size": 69420727,
+      "sell": 69420,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+    },
+    {
+      "ID": 4,
+      "name": "Mẹ mày",
+      "category": "Legendary",
+      "size": 69420727,
+      "sell": 69420,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+    },
+    {
+      "ID": 5,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Mẹ mày",
+      "category": "Legendary",
+      "size": 69420727,
+      "sell": 69420,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+    },
+    {
+      "ID": 8,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 11,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 12,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 13,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 15,
+      "name": "Mẹ mày",
+      "category": "Legendary",
+      "size": 69420727,
+      "sell": 69420,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+    },
+    {
+      "ID": 16,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 72050,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 17,
+      "name": "Mẹ mày",
+      "category": "Legendary",
+      "size": 69420727,
+      "sell": 69420,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝕷𝖊𝖌𝖊𝖓𝖉 𝕺𝖋 𝕽𝖔𝖉",
+      "price": 100000000,
+      "durability": 7550,
+      "countdown": 3,
+      "countdownData": 1661405283041,
+      "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/rod/legend_of_rod.png"
+    }
+  ],
+  "timeRegister": "23:42:19, 10/8/2022"
+}

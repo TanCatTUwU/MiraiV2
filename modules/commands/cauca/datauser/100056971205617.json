@@ -1,0 +1,117 @@
+{
+  "name": "Robert Omo Ånh Phúc",
+  "ID": "100056971205617",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Lilypad Islands"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 2,
+      "name": "Squidshark",
+      "category": "Rare",
+      "size": 11,
+      "sell": 6280,
+      "image": "https://i.imgur.com/OTyFBsE.png"
+    },
+    {
+      "ID": 3,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 4,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 5,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 6,
+      "name": "Feather Fish",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/hvfqv6n.png"
+    },
+    {
+      "ID": 7,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 8,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 9,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 10,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 11,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 97,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1880,
+      "countdown": 15,
+      "countdownData": 1660222590499,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "22:06:30, 8/8/2022"
+}
