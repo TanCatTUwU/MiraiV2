@@ -34,7 +34,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
                     });
                 }
             }
-            api.changeNickname(`[ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "Made by CatalizCS and SpermLord" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
+            api.changeNickname(`『〘  ${global.config.PREFIX} 〙 ${(!global.config.BOTNAME) 』 ? "Made by CatalizCS and SpermLord" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
           	api.sendMessage(`Hiện tại mình đang có ${client.commands.size} lệnh có thể sử dụng được.\nPrefix hiện tại khả dụng là: ${PREFIX}`, threadID);
 		}); 
 	}
