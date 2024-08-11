@@ -63,11 +63,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     ```sh
     npm i
     ```
-    3. Sau đó nhập lệnh sau để kiểm tra và update package
-    ```sh
-    npm audit fix
-    ```
-    4. Tải chalk
+    3. Tải chalk
     ```sh
     npm i chalk@4.1.2
     ```
