@@ -5,7 +5,7 @@
 ```sh
 npm install fca-horizon-remake@latest
 ```
-## Original project by CatalizCS and SpermLord
+## Credit to CatalizCS and SpermLord for making this
 Project gốc được làm bởi CatalizCS và SpermLord
 <!-- TABLES OF CONTENT -->
 <details open="open">
